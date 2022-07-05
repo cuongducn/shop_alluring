@@ -1,0 +1,24 @@
+.box{
+    height: 100%;
+    padding-top: 10px;
+  }
+  ion-slides{
+    height: 100vh !important;
+  }
+  
+  p {
+    color: white;
+    font-weight: bold !important;
+    font-size: 19px !important;
+    text-align: center;
+  }
+  
+  $base-color: #c24;
+  $num-colors: 10;
+  
+  @for $i from 0 to $num-colors {
+      .bgColor_#{$i} {
+        background-color: adjust-hue($base-color, 360deg / $num-colors * $i);
+      }
+  }
+  
