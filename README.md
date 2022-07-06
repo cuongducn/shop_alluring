@@ -10,6 +10,3 @@
 
 - View Detail product
 ![image](https://user-images.githubusercontent.com/62022410/177438759-7e90a024-ec53-45bc-ac0d-82d6f0a2d645.png)
-
-### Premium Partners![image](https://user-images.githubusercontent.com/62022410/177309528-b97de844-0af1-4b28-adb4-14bd785064cd.png)
-- **[Vehikl](https://vehikl.com/)**
